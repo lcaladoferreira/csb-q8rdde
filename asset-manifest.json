@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/main.d61ee452.chunk.js",
+    "main.js.map": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/main.d61ee452.chunk.js.map",
+    "runtime-main.js": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/runtime-main.efbe662d.js",
+    "runtime-main.js.map": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/runtime-main.efbe662d.js.map",
+    "static/js/2.622f1a02.chunk.js": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/2.622f1a02.chunk.js",
+    "static/js/2.622f1a02.chunk.js.map": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/2.622f1a02.chunk.js.map",
+    "index.html": "https://lcaladoferreira.github.io/csb-q8rdde/index.html",
+    "static/js/2.622f1a02.chunk.js.LICENSE.txt": "https://lcaladoferreira.github.io/csb-q8rdde/static/js/2.622f1a02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efbe662d.js",
+    "static/js/2.622f1a02.chunk.js",
+    "static/js/main.d61ee452.chunk.js"
+  ]
+}
